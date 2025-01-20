@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kenmercuslai.github.io/test_answers/'
 languageCode = 'en-us'
 title = '答案之书'
 theme='hugo-bearblog'
